@@ -1,1 +1,2 @@
-# projektas
+# projektasLOKALIAI
+# projektasGIthub
